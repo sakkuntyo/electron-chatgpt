@@ -8,6 +8,6 @@ https://chatgpt.com/share/6877ad5f-9e3c-8013-8ea0-e4b8b682039b
 
 # メモ
 - 動作確認
-  - npx electron .
+  - ```npx electron .```
 - パッケージング
   - ```npx electron-packager . chatgpt-client --platform=win32 --arch=x64 --icon=icon.ico --overwrite```
