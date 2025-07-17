@@ -2,7 +2,8 @@
 一度ログインすると再起動しても自動的にchatgpt と話せる画面に行く様になります。
 
 # 使い方
-以下からダウンロードして exe を実行します
+以下からダウンロードして展開し、 exe を実行します
+
 https://github.com/sakkuntyo/electron-chatgpt/releases/download/1.0.0/chatgpt-client-1.0.0-win32-x64.zip
 
 # 概要
