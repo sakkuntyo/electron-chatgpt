@@ -1,3 +1,5 @@
+https://chat.openai.com を開くだけの electron アプリ
+
 <img width="1266" height="793" alt="image" src="https://github.com/user-attachments/assets/36b78d81-2e83-41e6-846d-5b5d48195b8a" />
 一度ログインすると再起動しても自動的にchatgpt と話せる画面に行く様になります。
 
